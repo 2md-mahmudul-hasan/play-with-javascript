@@ -1,0 +1,16 @@
+.counter-box{
+  margin:0 auto;
+  width: 400px;
+  height: 400px;
+  border:1px solid blue;
+  padding:5px;
+  color: wheat;
+  background-color: rgb(3, 13, 32);
+  text-align: center;
+}
+
+.btn{
+  padding: 5px 15px;
+  background-color: rgb(255, 251, 251);
+  border-radius: 5px;
+}
